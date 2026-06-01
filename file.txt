@@ -1,0 +1,24 @@
+banana.jpg
+banana.txt
+Desktop
+Documents
+Downloads
+file
+funny.gif
+google-chrome-stable_current_amd64.deb
+history (copy).txt
+history.txt
+lll
+Music
+mysuperfile
+newfile.txt
+Pictures
+public
+Public
+sanjay
+sanjay.~1~
+sanjay.txt
+Templates
+update
+videos
+Videos
